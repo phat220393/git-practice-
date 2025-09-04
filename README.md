@@ -1,0 +1,3 @@
+# Git Practice
+
+Giới thiệu: Tôi là Nguyen Tan Phat, MSSV 220393.
